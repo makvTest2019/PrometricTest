@@ -1,0 +1,5 @@
+D:\codepractice-prj\Prometric-Test-Sln\MV.Prometric.Main\MV.Prometric.Entities\bin\Debug\MV.Prometric.Entities.dll
+D:\codepractice-prj\Prometric-Test-Sln\MV.Prometric.Main\MV.Prometric.Entities\bin\Debug\MV.Prometric.Entities.pdb
+D:\codepractice-prj\Prometric-Test-Sln\MV.Prometric.Main\MV.Prometric.Entities\obj\Debug\MV.Prometric.Entities.csprojAssemblyReference.cache
+D:\codepractice-prj\Prometric-Test-Sln\MV.Prometric.Main\MV.Prometric.Entities\obj\Debug\MV.Prometric.Entities.dll
+D:\codepractice-prj\Prometric-Test-Sln\MV.Prometric.Main\MV.Prometric.Entities\obj\Debug\MV.Prometric.Entities.pdb
